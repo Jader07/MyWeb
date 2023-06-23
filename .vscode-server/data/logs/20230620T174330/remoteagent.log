@@ -1,0 +1,33 @@
+2023-06-20 17:43:30.977 [info] 
+
+
+
+
+2023-06-20 17:43:30.999 [info] Extension host agent started.
+2023-06-20 17:43:31.069 [info] Deleted from disk ms-vscode.live-server /root/.vscode-server/extensions/ms-vscode.live-server-0.4.8
+2023-06-20 17:43:31.180 [info] [127.0.0.1][9fc5b804][ManagementConnection] New connection established.
+2023-06-20 17:43:31.483 [info] [127.0.0.1][b2e53ccc][ExtensionHostConnection] New connection established.
+2023-06-20 17:43:31.571 [info] [127.0.0.1][b2e53ccc][ExtensionHostConnection] <9373> Launched Extension Host Process.
+2023-06-20 17:54:38.393 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:54:38.411 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-06-20 17:54:41.231 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:54:42.234 [info] [127.0.0.1][9fc5b804][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-20 17:54:42.298 [info] [127.0.0.1][b2e53ccc][ExtensionHostConnection] <9373> Extension Host Process exited with code: 0, signal: null.
+2023-06-20 17:54:43.747 [info] [127.0.0.1][206e482a][ManagementConnection] New connection established.
+2023-06-20 17:54:44.301 [info] [127.0.0.1][faf86708][ExtensionHostConnection] New connection established.
+2023-06-20 17:54:44.308 [info] [127.0.0.1][faf86708][ExtensionHostConnection] <9596> Launched Extension Host Process.
+2023-06-20 17:57:51.084 [info] Downloaded extension to file:///root/.vscode-server/data/CachedExtensionVSIXs/83fd2753-2111-407f-a343-c9a068c00833
+2023-06-20 17:57:51.099 [info] Installing extension: ritwickdey.liveserver
+2023-06-20 17:57:51.212 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-06-20 17:57:51.217 [info] Deleted from disk ritwickdey.liveserver /root/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-06-20 17:57:57.961 [info] Extracted extension to /root/.vscode-server/extensions/.36252384-45fa-44f1-9835-8311fdebd969: ritwickdey.liveserver
+2023-06-20 17:57:57.972 [info] Renamed to /root/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-06-20 17:57:57.975 [info] Extracting extension completed. ritwickdey.liveserver
+2023-06-20 17:57:57.988 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-20 17:58:02.307 [info] [127.0.0.1][206e482a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-20 17:58:02.336 [info] [127.0.0.1][faf86708][ExtensionHostConnection] <9596> Extension Host Process exited with code: 0, signal: null.
+2023-06-20 17:58:03.846 [info] [127.0.0.1][1205849c][ManagementConnection] New connection established.
+2023-06-20 17:58:04.086 [info] [127.0.0.1][ec736ef8][ExtensionHostConnection] New connection established.
+2023-06-20 17:58:04.098 [info] [127.0.0.1][ec736ef8][ExtensionHostConnection] <9674> Launched Extension Host Process.
+2023-06-20 17:58:41.716 [info] [127.0.0.1][1205849c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-20 17:58:41.758 [info] [127.0.0.1][ec736ef8][ExtensionHostConnection] <9674> Extension Host Process exited with code: 0, signal: null.

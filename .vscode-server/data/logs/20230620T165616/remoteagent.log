@@ -1,0 +1,59 @@
+2023-06-20 16:56:17.032 [info] 
+
+
+
+
+2023-06-20 16:56:17.032 [info] Extension host agent started.
+2023-06-20 16:56:17.041 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-06-20 16:56:17.056 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-06-20 16:56:17.195 [info] [127.0.0.1][b376b078][ManagementConnection] New connection established.
+2023-06-20 16:56:17.372 [info] [127.0.0.1][78fff5de][ExtensionHostConnection] New connection established.
+2023-06-20 16:56:17.448 [info] [127.0.0.1][78fff5de][ExtensionHostConnection] <603> Launched Extension Host Process.
+2023-06-20 17:01:34.991 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-20 17:01:35.880 [info] Installing extension: ritwickdey.liveserver
+2023-06-20 17:01:47.096 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-20 17:01:53.399 [info] Extracted extension to /root/.vscode-server/extensions/.552cca0f-8199-47f6-a8b4-792365acd379: ritwickdey.liveserver
+2023-06-20 17:01:53.430 [info] Renamed to /root/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-06-20 17:01:53.433 [info] Extracting extension completed. ritwickdey.liveserver
+2023-06-20 17:01:53.443 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-20 17:02:19.821 [info] Getting Manifest... ms-vscode.live-server
+2023-06-20 17:02:21.103 [info] Installing extension: ms-vscode.live-server
+2023-06-20 17:02:24.663 [info] Extension signature is verified: ms-vscode.live-server
+2023-06-20 17:02:25.030 [info] Extracted extension to /root/.vscode-server/extensions/.c1cda2a5-ea50-42e0-83c6-8dbf28016b7e: ms-vscode.live-server
+2023-06-20 17:02:25.050 [info] Renamed to /root/.vscode-server/extensions/ms-vscode.live-server-0.4.8
+2023-06-20 17:02:25.054 [info] Extracting extension completed. ms-vscode.live-server
+2023-06-20 17:02:25.061 [info] Extension installed successfully: ms-vscode.live-server
+2023-06-20 17:05:57.726 [info] Uninstalling extension from the profile: ms-vscode.live-server@0.4.8 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:05:57.745 [info] Marked extension as uninstalled ms-vscode.live-server-0.4.8
+2023-06-20 17:05:58.527 [info] Successfully uninstalled extension from the profile ms-vscode.live-server@0.4.8 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:06:12.289 [info] Getting Manifest... ms-vscode.live-server
+2023-06-20 17:06:12.371 [info] Installing extension: ms-vscode.live-server
+2023-06-20 17:06:13.705 [info] Extension signature is verified: ms-vscode.live-server
+2023-06-20 17:06:13.708 [info] Removed the extension from uninstalled list: ms-vscode.live-server
+2023-06-20 17:06:13.734 [info] Extension installed successfully: ms-vscode.live-server
+2023-06-20 17:06:48.852 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:06:48.878 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-06-20 17:06:49.106 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:06:50.729 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-20 17:06:50.806 [info] Installing extension: ritwickdey.liveserver
+2023-06-20 17:06:52.415 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-20 17:06:52.418 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-06-20 17:06:52.429 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-20 17:07:49.498 [info] Uninstalling extension from the profile: ms-vscode.live-server@0.4.8 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:07:49.515 [info] Marked extension as uninstalled ms-vscode.live-server-0.4.8
+2023-06-20 17:07:49.677 [info] Successfully uninstalled extension from the profile ms-vscode.live-server@0.4.8 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:14:31.430 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:14:31.456 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-06-20 17:14:31.750 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2023-06-20 17:14:40.318 [info] [127.0.0.1][b376b078][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-20 17:14:40.370 [info] [127.0.0.1][78fff5de][ExtensionHostConnection] <603> Extension Host Process exited with code: 0, signal: null.
+2023-06-20 17:14:41.833 [info] [127.0.0.1][2622faad][ManagementConnection] New connection established.
+2023-06-20 17:14:42.420 [info] [127.0.0.1][6c4e642f][ExtensionHostConnection] New connection established.
+2023-06-20 17:14:42.424 [info] [127.0.0.1][6c4e642f][ExtensionHostConnection] <1689> Launched Extension Host Process.
+2023-06-20 17:15:07.944 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-20 17:15:08.048 [info] Installing extension: ritwickdey.liveserver
+2023-06-20 17:15:09.589 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-20 17:15:09.611 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-06-20 17:15:09.623 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-20 17:43:13.492 [info] [127.0.0.1][2622faad][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-20 17:43:13.547 [info] [127.0.0.1][6c4e642f][ExtensionHostConnection] <1689> Extension Host Process exited with code: 0, signal: null.

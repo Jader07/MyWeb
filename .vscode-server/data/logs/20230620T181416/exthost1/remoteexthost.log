@@ -1,0 +1,22 @@
+2023-06-20 18:14:18.230 [info] Extension host with pid 10013 started
+2023-06-20 18:14:18.270 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Lock acquired.
+2023-06-20 18:14:18.334 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-06-20 18:14:18.335 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-20 18:14:18.934 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-20 18:14:18.947 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-20 18:14:18.947 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-20 18:14:19.065 [info] Eager extensions activated
+2023-06-20 18:14:19.066 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-20 18:14:19.067 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-20 18:14:19.067 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-06-20 18:14:21.217 [error] Error: spawn /mnt/c/Program Files/Google/Chrome/Application/chrome.exe ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-06-20 18:14:58.617 [error] Error: spawn /mnt/c/Program Files/Google/Chrome/Application/chrome.exe ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-06-20 18:15:01.614 [info] Extension host terminating: received terminate message from renderer
+2023-06-20 18:15:01.615 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-06-20 18:15:01.639 [info] Extension host with pid 10013 exiting with code 0

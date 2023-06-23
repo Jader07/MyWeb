@@ -1,0 +1,9 @@
+{
+    
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:/ProgramFiles/Google/ChromeDev/Application",
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+
+}
